@@ -4,14 +4,14 @@
 有更多好程序？请提交 Pull Request ！(不限语言！)
 ### 程序提交
 #### 提交方法：
-0. 如果你不知道如何提交PR，请看下文……或者在[这个链接](https://blog.csdn.net/CY2333333/article/details/113731490)查看(需要Git)
-1. 在右上角点击 Fork 链接到你的账户
-2. 修改Fork的仓库（修改、添加、删除等）
-对于2.的具体操作：
-修改：打开文件，点击铅笔图案开始编辑，编辑完成后点击Commit changes；
-添加：点击Add File，选择Upload files(上传)或Create new file(线上创建)，成功后点击Commit changes；
-删除：点击Go to file，打开文件，点击...，找到Delete file点击，成功后点击Commit changes；
-上述操作完成后，点击Contribute，点击Open pull request，等待合并即可
+0. 如果你不知道如何提交PR，请看下文……或者在[这个链接](https://blog.csdn.net/CY2333333/article/details/113731490)查看(需要Git)  
+1. 在右上角点击 Fork 链接到你的账户  
+2. 修改Fork的仓库（修改、添加、删除等）  
+对于2.的具体操作：  
+修改：打开文件，点击铅笔图案开始编辑，编辑完成后点击Commit changes；  
+添加：点击Add File，选择Upload files(上传)或Create new file(线上创建)，成功后点击Commit changes；  
+删除：点击Go to file，打开文件，点击...，找到Delete file点击，成功后点击Commit changes；  
+上述操作完成后，点击Contribute，点击Open pull request，等待合并即可  
 #### 提交须知
 1. 你可以确定这个程序没有被提交过且有价值
 2. 提交时输入来源(转载/原创/来自其他灵感......)、功能(游戏/工具/一些题目......)
