@@ -4,22 +4,16 @@
 有更多好程序？请提交 Pull Request ！(不限语言！)
 ### 程序提交
 #### 提交方法：
-0. 如果你不知道如何提交PR，请看下文……或者在[这个链接](https://blog.csdn.net/CY2333333/article/details/113731490)查看(需要Git)  
-1. 在右上角点击 Fork 链接到你的账户  
-2. 修改Fork的仓库（修改、添加、删除等）  
-对于2.的具体操作：  
-修改：打开文件，点击铅笔图案开始编辑，编辑完成后点击Commit changes；  
-添加：点击Add File，选择Upload files(上传)或Create new file(线上创建)，成功后点击Commit changes；  
-删除：点击Go to file，打开文件，点击...，找到Delete file点击，成功后点击Commit changes；  
-上述操作完成后，点击Contribute，点击Open pull request，等待合并即可  
+请到[这个Discussions](https://github.com/Explorers874/AnyCode/discussions/4)中查看  
+但是，你**必须**确保你已经**认真阅读下面的提交须知**
 #### 提交须知
 1. 你可以确定这个程序没有被提交过且有价值
 2. 提交时输入来源(转载/原创/来自其他灵感......)、功能(游戏/工具/一些题目......)
-3. 在右侧Labels中选择 提交程序
-4. 如果你发现程序不好请在Labels中选择 精简仓库
-5. 对于4：提交时，请输入不好的点！Coder和OIer们非常累，不要随便删除他们的代码！！！
+3. 提交删除代码时，**必须**在description中输入不好的点！Coders和OIers非常累，不要随便删除他们的代码！！！
 ### 随机洞
-#### 不起眼的。
+#### 都没有人来 :(
 #### 关于随机洞
 1. 这是ED在README.md中加入的小玩法
 2. 里面会包含：在这里可以干什么、一些小技巧、笑话、其他[奇怪的东西](https://www.bilibili.com/video/BV1GJ411x7h7)[。](https://www.luogu.com.cn/paste/dx5c2gm7)
+3. 你可以通过提交PR来更改这里的文段，欢迎投稿~ :)
+[](哎呀呀，被你发现了，如果你看到了这行文字，说明你正在查看README.md的源码。你就会从这里抢先进入解密剪切板！)
