@@ -1,21 +1,35 @@
 # AnyCode----By ED_Builder
 各大神犇的程序汇集处，欢迎提交PR  
-欢迎第[![Page Views Count](https://badges.toozhao.com/badges/01HDNMJSFWW6N8NC50VQ19STBA/blue.svg)](https://badges.toozhao.com/stats/01HDNMJSFWW6N8NC50VQ19STBA "Get your own page views count badge on badges.toozhao.com")个来这里的神犇！  
-有更多好程序？请提交 Pull Request ！(不限语言！)
+**欢迎第[![Page Views Count](https://badges.toozhao.com/badges/01HDNMJSFWW6N8NC50VQ19STBA/blue.svg)](https://badges.toozhao.com/stats/01HDNMJSFWW6N8NC50VQ19STBA "Get your own page views count badge on badges.toozhao.com")个来这里的神犇！  
+有更多好程序？请提交 Pull Request ！(不限语言！)**
+
+---
 ### 代码突出贡献者
 0. [ED_Builder](https://github.com/Explorers874)
 1. 虚位以待……
+
+---
 ### 程序提交
 #### 提交方法：
-请到[这个Discussions](https://github.com/Explorers874/AnyCode/discussions/4)中查看
-
+请到[这个Discussions](https://github.com/Explorers874/AnyCode/discussions/4)中查看  
 但是，在提交前你**必须**确保你已经**认真阅读下面的提交须知**
 #### 提交须知
-1. 你可以确定这个程序没有被提交过且有价值
-2. 提交时输入来源(转载/原创/来自其他灵感......)、功能(游戏/工具/一些题目......)
-3. 提交删除代码时，**必须**在description中输入不好的点！Coders和OIers非常累，不要随便删除他们的代码！！！
+1. 你**可以确定**这个程序**没有**被提交过且**有价值**（就是不要发水）
+2. 提交时可以在description中输入来源(转载/原创/来自其他灵感......)、功能(游戏/工具/一些题目......)
+3. 提交**删除**代码时，**必须**在description中输入不好的点！Coders和OIers非常累，**不要**随便删除他们的代码！！！
+
+---
+### 讨论
+#### 提出建议
+1. 这是**可以**发布在**Issues**中的讨论
+2. 在标题(title)中写上你主要认为**改进的中心点**或**想要添加的功能**
+3. 在介绍(description)中写上描述
+4. (可选)提交一个PR，更改想要改进的地方，在介绍(description)中粘贴提交的PR的链接
+
+---
 ### 随机洞
-#### 查看源代码
+某xxs在某网站上发帖，说自己可以黑掉**整个网站**，所有人都不信，但还是引来了**管理员**围观  
+xxs觉得气氛烘托得差不多了，粘贴了一个不知道从哪里**复制**过来的**PHP Shell Code**，还是用**文字形式**发送的
 #### 关于随机洞
 1. 这是ED在README.md中加入的小玩法
 2. 里面会包含：在这里可以干什么、一些小技巧、笑话、其他[奇怪的东西](https://www.bilibili.com/video/BV1GJ411x7h7)[。](https://www.luogu.com.cn/paste/dx5c2gm7)
