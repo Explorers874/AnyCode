@@ -5,8 +5,8 @@
 
 ---
 ### 突出贡献者
-0. [ED_Builder](https://github.com/Explorers874)
-1. 虚位以待……
+![Thanks for contributing!](https://img.shields.io/badge/Contributor--0-Explorers874-yellow)
+![Thanks for contributing!](https://img.shields.io/badge/Contributor--0-Explorers8741-yellow)
 
 ---
 ### 程序提交
