@@ -5,9 +5,11 @@
 
 ---
 ### 突出贡献者
-![Thanks for contributing!](https://img.shields.io/badge/Contributor--0-Explorers874-yellow)
-![Thanks for contributing!](https://img.shields.io/badge/Contributor--0-Explorers8741-yellow)
-
+#### Author
+[![Author](https://img.shields.io/badge/Contributor--0-Explorers874-yellow)](https://github.com/Explorers874)
+[![Author](https://img.shields.io/badge/Contributor--0-Explorers8741-yellow)](https://github.com/Explorers8741)  
+#### Contributors
+![Could it be you?](https://img.shields.io/badge/Conttributor--1-Wating...-red)
 ---
 ### 程序提交
 #### 提交方法：
@@ -19,16 +21,7 @@
 3. 提交**删除**代码时，**必须**在description中输入不好的点！Coders和OIers非常累，**不要**随便删除他们的代码！！！
 
 ---
-### 讨论
-#### 提出建议
-1. 这是**可以**发布在**Issues**中的讨论
-2. 在标题(title)中写上你主要认为**改进的中心点**或**想要添加的功能**
-3. 在介绍(description)中写上描述
-4. (可选)提交一个PR，更改想要改进的地方，在介绍(description)中粘贴提交的PR的链接
-#### 对于其他的讨论
-1. 如果你认为Discussions中的板块太少了，可以参照上文打开**Issues**
-2. 请在**对应**的板块中发布**相应**的讨论
----
+
 ### 随机洞
 如果你不会配置 VSCode 中的 C++，可以使用[vscch](https://v4.vscch.tk/)，这很好用！  
 你只需要：安装VSCode，有一个编译器就可以！(当然，如果你没有，vscch可以帮你下载一个)
