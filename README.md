@@ -7,20 +7,36 @@
 ---
 ### 突出贡献者
 #### Author
-[![Author](https://img.shields.io/badge/Contributor--0-Explorers874-yellow)](https://github.com/Explorers874)
-[![Author](https://img.shields.io/badge/Contributor--0-Explorers8741-yellow)](https://github.com/Explorers8741)  
+[![Author](https://badgen.net/badge/Author/Explorers874/yellow?icon=atom)](https://github.com/Explorers874)
+[![Author](https://badgen.net/badge/Author/Explorers8741/yellow?icon=atom)](https://github.com/Explorers8741)  
 #### Contributors
-![Could it be you?](https://img.shields.io/badge/Contributor--1-Wating...-red)
+![](https://badgen.net/badge/Contrbutor-1/Could%20it%20be%20you%3F/cyan?icon=telegram)
 
 ---
 ### 程序提交
-#### 提交方法：
-请到[这个Discussions](https://github.com/Explorers874/AnyCode/discussions/4)中查看  
-但是，在提交前你**必须**确保你已经**认真阅读下面的提交须知**
-#### 提交须知
-1. 你**可以确定**这个程序**没有**被提交过且**有价值**（就是不要发水）
-2. 提交时可以在description中输入来源(转载/原创/来自其他灵感......)、功能(游戏/工具/一些题目......)
-3. 提交**删除**代码时，**必须**在description中输入不好的点！Coders和OIers非常累，**不要**随便删除他们的代码！！！
+### 写在前面
+这是比较完善的PR提交具体过程，如果写在这里的还是不明白 ~~(我已经写得很详细了好吧！)~~ ，可以来[这里](https://blog.csdn.net/CY2333333/article/details/113731490)看看(需要Git，有些麻烦)
+### 提交步骤
+#### 前期
+1. 注册一个Github账号。（~~废话~~
+2. 在右上方点击 Fork，将这个仓库连接到你的Github账户。
+3. 回到你的个人主页，在 Repository 中点击进入刚才 Fork 过来的仓库。
+#### 开始/一些常用操作
+1. 修改：打开文件，点击铅笔图案开始编辑，编辑完成后点击 Commit changes ；  
+2. 添加：点击 Add File ，选择 Upload files (上传)或 Create new file (线上创建)，成功后点击 Commit changes ；  
+3. 删除：点击 Go to file ，打开文件，点击 ... ，找到 Delete file 点击，成功后点击 Commit changes ；  
+#### 提交过程中
+1. 把你的程序放在对应的文件夹中
+2. 如果你认为这些文件夹都不符合你的程序，可以再创建一个（把你的程序放在想要添加的文件夹中，然后把整个文件夹拖拽上传）
+#### 提交
+1. 上述操作完成后，返回仓库主页，点击 Contribute ，点击 Open pull request 。
+3. 在标题(title)中输入进行的操作(修改xxx、添加xxx等)
+4. 在description中输入你进行更改的一些细节(提交的程序的作用、删除程序的理由等)
+5. 点击 Create pull request ，等待合并即可
+#### 提交之后
+1. 我们会查看你提交的修改，并加上Labels
+2. 选择是否合并
+3. 对于特别好的贡献，我们会在README.md中提上你的Github账号以及对应的PR链接，是一个badge哦
 
 ---
 
