@@ -1,5 +1,6 @@
-# AnyCode----By ED_Builder
-各大神犇的程序汇集处，欢迎提交PR  
+# AnyCode
+各大神犇的程序汇集处，欢迎提交PR
+
 **欢迎第[![Page Views Count](https://badges.toozhao.com/badges/01HDNMJSFWW6N8NC50VQ19STBA/blue.svg)](https://badges.toozhao.com/stats/01HDNMJSFWW6N8NC50VQ19STBA "Get your own page views count badge on badges.toozhao.com")个来这里的神犇！  
 有更多好程序？请提交 Pull Request ！(不限语言！)**
 
@@ -9,7 +10,7 @@
 [![Author](https://img.shields.io/badge/Contributor--0-Explorers874-yellow)](https://github.com/Explorers874)
 [![Author](https://img.shields.io/badge/Contributor--0-Explorers8741-yellow)](https://github.com/Explorers8741)  
 #### Contributors
-![Could it be you?](https://img.shields.io/badge/Conttributor--1-Wating...-red)
+![Could it be you?](https://img.shields.io/badge/Contributor--1-Wating...-red)
 
 ---
 ### 程序提交
