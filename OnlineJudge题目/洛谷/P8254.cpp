@@ -1,7 +1,6 @@
 /*
 洛谷P8254：王国比赛
 题目链接：https://www.luogu.com.cn/problem/P8254
-由于NOIP入门实在是有6道题不会了，就找了一个NOI Online的题 :(
 */
 #include <bits/stdc++.h>
 using namespace std;
