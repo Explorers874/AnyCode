@@ -24,4 +24,9 @@ Minecraft 最新预览版：1.20.1-pre-release！
 1. 这是ED在README.md中加入的小玩法
 2. 里面会包含：在这里可以干什么、一些小技巧、笑话、其他[奇怪的东西](https://www.bilibili.com/video/BV1GJ411x7h7)[。](https://www.luogu.com.cn/paste/dx5c2gm7)
 3. 你可以通过提交PR来更改这里的文段，欢迎投稿~ :)
-[](哎呀呀，被你发现了，如果你看到了这行文字，说明你正在查看README.md的源码。你就会从这里抢先进入解密剪切板！)
+
+---
+### 投票最高
+![Looks great!](https://github.com/Explorers874/AnyCode/blob/AnyCode/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%9B%BE%E7%B2%BE%E9%80%89/2023.08.14.jpg?raw=true)
+[![Author](https://badgen.net/badge/图片提供者/Explorers874/cyan?icon=packagephobia)](https://github.com/Explorers874)
+[![Author](https://badgen.net/badge/今日音频/Somero/pink?icon=zeit)](https://music.163.com/song/media/outer/url?id=414980898.mp3)
