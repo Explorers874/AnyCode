@@ -28,5 +28,6 @@ Minecraft 最新预览版：1.20.1-pre-release！
 ---
 ### 投票最高
 ![Looks great!](https://github.com/Explorers874/AnyCode/blob/AnyCode/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%9B%BE%E7%B2%BE%E9%80%89/2023.08.14.jpg?raw=true)
-[![Author](https://badgen.net/badge/图片提供者/Explorers874/cyan?icon=packagephobia)](https://github.com/Explorers874)
-[![Author](https://badgen.net/badge/今日音频/Somero/pink?icon=zeit)](https://music.163.com/song/media/outer/url?id=414980898.mp3)
+[![Pictrue](https://badgen.net/badge/图片提供者/Explorers874/cyan?icon=packagephobia)](https://github.com/Explorers874)
+[![Song](https://badgen.net/badge/今日音频/Somero/pink?icon=zeit)](https://music.163.com/song/media/outer/url?id=414980898.mp3)
+[![Song](https://badgen.net/badge/今日音频/Shel%20A%20%20Light/pink?icon=zeit)](https://np-sycdn.kuwo.cn/ed02bb6f38efc3a783751162b19b4c47/6562dc44/resource/n2/14/40/3447946011.mp3?from=vip)
