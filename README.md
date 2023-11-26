@@ -22,8 +22,13 @@ AnyCode 正在大更新，敬请期待
 由于 Discussions 的重建，一些内容可能不完善
 由于程序的大规模删除，程序很少，希望提交PR来充实这里
 ### 随机洞
-Minecraft 最新预览版：1.20.1-pre-release！
-1.21主要更新：试炼地牢、铜类建筑/红石方块、合成台
+NUMB Server 大更新！
+
+更新内容：  
+1. 成就系统
+2. UI 更换
+3. 更名 Nature
+4. 我也不知道了……
 #### 关于随机洞
 1. 这是ED在README.md中加入的小玩法
 2. 里面会包含：在这里可以干什么、一些小技巧、笑话、其他[奇怪的东西](https://www.bilibili.com/video/BV1GJ411x7h7)[。](https://www.luogu.com.cn/paste/dx5c2gm7)
