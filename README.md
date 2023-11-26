@@ -10,7 +10,11 @@
 [![Author](https://badgen.net/badge/Author/Explorers874/yellow?icon=atom)](https://github.com/Explorers874)
 [![Author](https://badgen.net/badge/Author/Explorers8741/yellow?icon=atom)](https://github.com/Explorers8741)  
 #### Contributors
-![](https://badgen.net/badge/Contrbutor-1/Could%20it%20be%20you%3F/cyan?icon=telegram)
+![](https://badgen.net/badge/Contributor-1/Could%20it%20be%20you%3F/cyan?icon=telegram)
+#### Innovators
+![](https://badgen.net/badge/Innovator-1/Could%20it%20be%20you%3F/purple?icon=bitcoin-lightning)
+#### Helpers
+![](https://badgen.net/badge/Helper-1/Could%20it%20be%20you%3F/blue?icon=slack)
 ### 公告
 AnyCode 正在大更新，敬请期待  
 对于一些操作，请到 Wiki 中查看  
