@@ -22,13 +22,8 @@ AnyCode 正在大更新，敬请期待
 由于 Discussions 的重建，一些内容可能不完善
 由于程序的大规模删除，程序很少，希望提交PR来充实这里
 ### 随机洞
-NUMB Server 大更新！
-
-更新内容：  
-1. 成就系统
-2. UI 更换
-3. 更名 Nature
-4. 我也不知道了……
+一天，小明全家去吃小龙虾，年仅 **2.5** 岁的小明说：“妈妈，小龙虾在这里会不会找不到家，会想它的妈妈？”  
+妈妈被问得哑口无言，这时老板走了过来：“小朋友，它们 **全家** 都在这里”
 #### 关于随机洞
 1. 这是ED在README.md中加入的小玩法
 2. 里面会包含：在这里可以干什么、一些小技巧、笑话、其他[奇怪的东西](https://www.bilibili.com/video/BV1GJ411x7h7)[。](https://www.luogu.com.cn/paste/dx5c2gm7)
@@ -39,4 +34,4 @@ NUMB Server 大更新！
 ![Looks great!](https://github.com/Explorers874/AnyCode/blob/AnyCode/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%9B%BE%E7%B2%BE%E9%80%89/2023.08.14.jpg?raw=true)
 [![Pictrue](https://badgen.net/badge/图片提供者/Explorers874/cyan?icon=packagephobia)](https://github.com/Explorers874)
 [![Song](https://badgen.net/badge/今日音频/Somero/pink?icon=zeit)](https://music.163.com/song/media/outer/url?id=414980898.mp3)
-[![Song](https://badgen.net/badge/今日音频/Shel%20A%20%20Light/pink?icon=zeit)](https://np-sycdn.kuwo.cn/ed02bb6f38efc3a783751162b19b4c47/6562dc44/resource/n2/14/40/3447946011.mp3?from=vip)
+[![Song](https://badgen.net/badge/今日音频/Shed%20A%20%20Light/pink?icon=zeit)](https://lw-sycdn.kuwo.cn/962ef65b16b7fdedbf81163da779e3a9/6569baf3/resource/30106/trackmedia/M500000yGrnv2z8qHm.mp3?from=vip)
