@@ -34,4 +34,4 @@ AnyCode 正在大更新，敬请期待
 ![Looks great!](https://github.com/Explorers874/AnyCode/blob/AnyCode/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%9B%BE%E7%B2%BE%E9%80%89/2023.08.14.jpg?raw=true)
 [![Pictrue](https://badgen.net/badge/图片提供者/Explorers874/cyan?icon=packagephobia)](https://github.com/Explorers874)
 [![Song](https://badgen.net/badge/今日音频/Somero/pink?icon=zeit)](https://music.163.com/song/media/outer/url?id=414980898.mp3)
-[![Song](https://badgen.net/badge/今日音频/Shed%20A%20%20Light/pink?icon=zeit)](https://lw-sycdn.kuwo.cn/962ef65b16b7fdedbf81163da779e3a9/6569baf3/resource/30106/trackmedia/M500000yGrnv2z8qHm.mp3?from=vip)
+[![Song](https://badgen.net/badge/今日音频/Shed%20A%20%20Light/pink?icon=zeit)](https://www.gequbao.com/music/2044105) 注：由于外链随机，请到此处下载
