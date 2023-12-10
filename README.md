@@ -10,7 +10,7 @@
 [![Author](https://badgen.net/badge/Author/Explorers874/yellow?icon=atom)](https://github.com/Explorers874)
 [![Author](https://badgen.net/badge/Author/Explorers8741/yellow?icon=atom)](https://github.com/Explorers8741)  
 #### Contributors
-![](https://badgen.net/badge/Contributor-1/x1007/red?icon=telegram)
+[![Thanks for contributing!](https://badgen.net/badge/Contributor-1/x1007/red?icon=telegram)](https://github.com/x1007)
 #### Innovators
 ![](https://badgen.net/badge/Innovator-1/Could%20it%20be%20you%3F/purple?icon=bitcoin-lightning)
 #### Helpers
