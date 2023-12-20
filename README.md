@@ -20,7 +20,8 @@ AnyCode 正在大更新，敬请期待
 对于一些操作，请到 Wiki 中查看  
 在 Discussions 中进行投票  
 由于 Discussions 的重建，一些内容可能不完善
-由于程序的大规模删除，程序很少，希望提交PR来充实这里
+由于程序的大规模删除，程序很少，希望提交PR来充实这里  
+如若有任何问题，请提交Issues！
 #### 搬家啦！
 现在，我们创建了 Discord 服务器，更多的讨论将被移至服务器中，欢迎添加!  
 [Discord_Server](https://discord.gg/K56mDaNKJe)
@@ -37,4 +38,3 @@ AnyCode 正在大更新，敬请期待
 ![Looks great!](https://github.com/Explorers874/AnyCode/blob/AnyCode/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%9B%BE%E7%B2%BE%E9%80%89/2023.08.14.jpg?raw=true)
 [![Pictrue](https://badgen.net/badge/图片提供者/Explorers874/cyan?icon=packagephobia)](https://github.com/Explorers874)
 [![Song](https://badgen.net/badge/今日音频/Somero/pink?icon=zeit)](https://music.163.com/song/media/outer/url?id=414980898.mp3)
-[![Song](https://badgen.net/badge/今日音频/Shed%20A%20%20Light/pink?icon=zeit)](https://www.gequbao.com/music/2044105) 注：由于外链随机，请到此处下载
