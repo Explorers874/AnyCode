@@ -1,8 +1,6 @@
 # AnyCode
-各大神犇的程序汇集处，欢迎提交PR
-
-**欢迎第![Count](https://badges.toozhao.com/badges/01HDNMJSFWW6N8NC50VQ19STBA/blue.svg)个来这里的神犇！  
-有更多好程序？请提交 Pull Request ！(不限语言！)**
+这里是所有人程序的汇集处，让你在一个仓库访问各路神仙的代码！  
+**欢迎第![Count](https://badges.toozhao.com/badges/01HDNMJSFWW6N8NC50VQ19STBA/blue.svg)个来这里的神明！**
 
 ---
 ### 突出贡献者
@@ -35,6 +33,6 @@ AnyCode 正在大更新，敬请期待
 
 ---
 ### 投票最高
-![Looks great!](https://github.com/Explorers874/AnyCode/blob/AnyCode/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%9B%BE%E7%B2%BE%E9%80%89/2023.08.14.jpg?raw=true)
+![Looks great!](https://github.com/Explorers874/AnyCode/blob/AnyCode/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%9B%BE%E7%B2%BE%E9%80%89/2023.12.20.jpg?raw=true)
 [![Pictrue](https://badgen.net/badge/图片提供者/Explorers874/cyan?icon=packagephobia)](https://github.com/Explorers874)
-[![Song](https://badgen.net/badge/今日音频/Somero/pink?icon=zeit)](https://music.163.com/song/media/outer/url?id=414980898.mp3)
+[![Song](https://badgen.net/badge/今日音频/Snowman/pink?icon=zeit)](https://www.gequbao.com/music/387786)
